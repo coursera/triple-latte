@@ -1,0 +1,35 @@
+{
+  "name": "triple-latte",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "eleith",
+    "email": "eleith@coursera.org"
+  },
+  "description": "mochajs parallel runner",
+  "contributors": [
+  ],
+  "bin": {
+    "crane": "./bin/triple-latte"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coursera/triple-latte.git"
+  },
+  "keywords": [
+    "mochajs",
+    "parallel",
+    "test"
+  ],
+  "dependencies": {
+    "commander": "1.1.1",
+    "growl": "1.6.1",
+    "mocha": "1.18.2",
+    "wrench": "1.5.8",
+    "async": "0.8.0"
+  },
+  "engine": {
+    "node": ">=0.10"
+  }
+}
