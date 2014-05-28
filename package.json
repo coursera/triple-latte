@@ -10,7 +10,7 @@
   "contributors": [
   ],
   "bin": {
-    "crane": "./bin/triple-latte"
+    "triple-latte": "./bin/triple-latte"
   },
   "main": "index",
   "repository": {
