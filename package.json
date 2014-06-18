@@ -28,7 +28,8 @@
     "mocha": "1.18.2",
     "wrench": "1.5.8",
     "async": "0.8.0",
-    "underscore": "1.5.1"
+    "underscore": "1.5.1",
+    "cli-color": "0.3.2"
   },
   "engine": {
     "node": ">=0.10"
