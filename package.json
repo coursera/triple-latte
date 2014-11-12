@@ -1,14 +1,13 @@
 {
   "name": "triple-latte",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "private": true,
   "author": {
     "name": "eleith",
     "email": "eleith@coursera.org"
   },
   "description": "mochajs parallel runner",
-  "contributors": [
-  ],
+  "contributors": [],
   "bin": {
     "triple-latte": "./bin/triple-latte"
   },
