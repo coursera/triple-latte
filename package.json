@@ -1,6 +1,6 @@
 {
   "name": "triple-latte",
-  "version": "0.2.11",
+  "version": "0.2.11.1",
   "private": true,
   "author": {
     "name": "eleith",
@@ -24,7 +24,7 @@
   "dependencies": {
     "commander": "1.1.1",
     "growl": "1.6.1",
-    "mocha": "1.18.2",
+    "mocha": "2.0.1",
     "wrench": "1.5.8",
     "async": "0.8.0",
     "underscore": "1.5.1",
