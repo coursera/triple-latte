@@ -22,13 +22,13 @@
     "test"
   ],
   "dependencies": {
+    "async": "0.8.0",
+    "cli-color": "0.3.2",
     "commander": "1.1.1",
     "growl": "1.6.1",
     "mocha": "2.0.1",
-    "wrench": "1.5.8",
-    "async": "0.8.0",
     "underscore": "1.5.1",
-    "cli-color": "0.3.2"
+    "wrench": "1.5.8"
   },
   "engine": {
     "node": ">=0.10"
